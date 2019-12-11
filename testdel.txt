@@ -1,6 +1,0 @@
-test del1
-test del2
-
-test 4
-
-
